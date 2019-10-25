@@ -1,0 +1,1 @@
+Bem Vindos ao repositório do Mini Curso de Git e Github!
